@@ -32,5 +32,11 @@ public class ApplyLeave {
 		driver2.findElement(By.xpath("//button[@title='Apply Leave']")).click();
 		
 	}
+	
+	@Test
+	public void newTestCase()
+	{
+		System.out.println("new testcase created by team member 2");
+	}
 
 }
