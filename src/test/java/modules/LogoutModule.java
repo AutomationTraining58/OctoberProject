@@ -10,5 +10,12 @@ public class LogoutModule {
 	{
 		System.out.println("log out testcase");
 	}
+	
+	
+	@Test
+	public void newTestCaseAddedByT2()
+	{
+		System.out.println("Testcase added");
+	}
 
 }
