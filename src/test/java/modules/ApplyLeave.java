@@ -38,5 +38,13 @@ public class ApplyLeave {
 	{
 		System.out.println("new testcase created by team member 2");
 	}
+	
+	
+	@Test
+	public void creditCardTestCase()
+	{
+		System.out.println("testcase from member 3");
+	}
+	
 
 }
