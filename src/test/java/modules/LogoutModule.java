@@ -17,5 +17,14 @@ public class LogoutModule {
 	{
 		System.out.println("Testcase added");
 	}
+	
+	
+
+	@Test
+	public void newTestCaseAddedByT3()
+	{
+		System.out.println("Testcase added BY tEAM MEMBER 3");
+	}
+	
 
 }
