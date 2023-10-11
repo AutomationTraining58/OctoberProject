@@ -31,6 +31,16 @@ public class TimeSheet {
 		
 	}
 	
+	@Test
+	public void testCaseCreatedFromDevelopmentBranch()
+	{
+		
+		
+		driver2.findElement(By.xpath("//button[@title='My Timesheet']")).click();
+		
+	}
+	
+	
 	
 	
 
