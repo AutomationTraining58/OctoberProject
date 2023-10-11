@@ -46,5 +46,12 @@ public class ApplyLeave {
 		System.out.println("testcase from member 3");
 	}
 	
+	
+	@Test
+	public void methodFromTestBranch()
+	{
+		System.out.println("method from test branch");
+	}
+	
 
 }
